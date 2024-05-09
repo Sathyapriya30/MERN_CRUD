@@ -1,0 +1,10 @@
+cmd line
+npm init
+npm install express mongoose body-parser cors --save
+npm i nodemon -g
+npm i mongoose //refer
+
+cmd -> mongod
+
+npm start
+npm install express mongoose express-session bcrypt
